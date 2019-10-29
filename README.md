@@ -7,13 +7,12 @@ Hasee k610d i7 d2 efi with clover5097 for macOS 10.14.6
 屏幕截图
 -----
 
-![avatar](https://github.com/jmxl/K610d-i7-d2-Hackintosh/tree/master/screenshots/screenshot1.png)
-![avatar](https://github.com/jmxl/K610d-i7-d2-Hackintosh/tree/master/screenshots/screenshot4.png)
-![avatar](https://github.com/jmxl/K610d-i7-d2-Hackintosh/tree/master/screenshots/screenshot3.png)
-
+![avatar](https://raw.githubusercontent.com/jmxl/K610d-i7-d2-Hackintosh/clover/screenshots/screenshot0.png)
+![avatar](https://raw.githubusercontent.com/jmxl/K610d-i7-d2-Hackintosh/clover/screenshots/screenshot1.png)
+![avatar](https://raw.githubusercontent.com/jmxl/K610d-i7-d2-Hackintosh/clover/screenshots/screenshot3.png
 说明
 -----
-1、Intel(R) Dual Band Wireless-AC 3160 无解(更换为BCM94322)  
+1、Intel(R) Dual Band Wireless-AC 3160 无解(更换为BCM4322)  
 2、独显无解(已屏蔽)  
 3、核显已驱动 显存2048mb  
 4、clover v5097  
