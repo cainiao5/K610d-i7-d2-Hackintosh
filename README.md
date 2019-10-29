@@ -9,7 +9,8 @@ Hasee k610d i7 d2 efi with clover5097 for macOS 10.14.6
 
 ![avatar](https://raw.githubusercontent.com/jmxl/K610d-i7-d2-Hackintosh/clover/screenshots/screenshot0.png)
 ![avatar](https://raw.githubusercontent.com/jmxl/K610d-i7-d2-Hackintosh/clover/screenshots/screenshot1.png)
-![avatar](https://raw.githubusercontent.com/jmxl/K610d-i7-d2-Hackintosh/clover/screenshots/screenshot3.png
+![avatar](https://raw.githubusercontent.com/jmxl/K610d-i7-d2-Hackintosh/clover/screenshots/screenshot3.png)
+
 说明
 -----
 1、Intel(R) Dual Band Wireless-AC 3160 无解(更换为BCM4322)  
