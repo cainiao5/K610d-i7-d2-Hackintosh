@@ -1,22 +1,22 @@
-# K610d-i5-d3-efi
+# K610d-i7-d2-efi
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/1zilc/K610d-i5-d3-10.14.5-efi-clover/total">&nbsp;
 
-Hasee k610d i5 d3 efi with clover5070 for macOS 10.14.6  
-个人博客: https://www.1zilc.top/
+Hasee k610d i7 d2 efi with clover5097 for macOS 10.14.6  
+原作者博客: https://www.1zilc.top/
 
 屏幕截图
 -----
 
-![avatar](https://github.com/1zilc/K610d-i5-d3-10.14.5-efi-clover/blob/master/screenshots/screenshot1.png)
-![avatar](https://github.com/1zilc/K610d-i5-d3-10.14.5-efi-clover/blob/master/screenshots/screenshot4.png)
-![avatar](https://github.com/1zilc/K610d-i5-d3-10.14.5-efi-clover/blob/master/screenshots/screenshot3.png)
+![avatar](https://github.com/jmxl/K610d-i7-d2-Hackintosh/tree/master/screenshots/screenshot1.png)
+![avatar](https://github.com/jmxl/K610d-i7-d2-Hackintosh/tree/master/screenshots/screenshot4.png)
+![avatar](https://github.com/jmxl/K610d-i7-d2-Hackintosh/tree/master/screenshots/screenshot3.png)
 
 说明
 -----
-1、Intel(R) Dual Band Wireless-AC 3160 无解(某宝comfast wu810n usb wifi已解决)  
+1、Intel(R) Dual Band Wireless-AC 3160 无解(更换为BCM94322)  
 2、独显无解(已屏蔽)  
 3、核显已驱动 显存2048mb  
-4、clover v5070  
+4、clover v5097  
 5、睡眠完美  
 6、小太阳完美(可通过fn组合键调节)  
 7、声卡完美(内建声卡、可通过fn组合键调节)  
