@@ -37,6 +37,13 @@ Hasee k610d i7 d2 efi with clover5097 for macOS 10.14.6
 
 更新日志
 -------
+#### 2020.05.10
+* 更新clover至5115，支持macOS Catalina 10.15.4
+* 更新lilu.kext至1.4.4
+* 更新AppleALC.kext至1.4.9
+* 更新WhateverGreen.kext至1.3.9
+* 新增IO80211Family.kext
+
 #### 2019.10.14
 * 更新clover至5070,理论上支持macOS Catalina 10.15 正式版  
 * 更新AppleALC.kext至1.4.2  
